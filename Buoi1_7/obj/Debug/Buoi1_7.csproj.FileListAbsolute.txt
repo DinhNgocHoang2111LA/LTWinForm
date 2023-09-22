@@ -1,0 +1,5 @@
+D:\DinhNgocHoang_2121110041\DinhNgocHoang_2121110041\Buoi1_7\bin\Debug\Buoi1_7.exe.config
+D:\DinhNgocHoang_2121110041\DinhNgocHoang_2121110041\Buoi1_7\bin\Debug\Buoi1_7.exe
+D:\DinhNgocHoang_2121110041\DinhNgocHoang_2121110041\Buoi1_7\bin\Debug\Buoi1_7.pdb
+D:\DinhNgocHoang_2121110041\DinhNgocHoang_2121110041\Buoi1_7\obj\Debug\Buoi1_7.exe
+D:\DinhNgocHoang_2121110041\DinhNgocHoang_2121110041\Buoi1_7\obj\Debug\Buoi1_7.pdb
